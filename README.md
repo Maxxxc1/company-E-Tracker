@@ -34,13 +34,13 @@ Open comand line terminal to index.js file, type node index.js on command line, 
 
 
 # Screenshots
-
+![alt text](image.png)
 
 
 
 # Links
 
-Repo: 
+Repo: https://github.com/Maxxxc1/company-E-Tracker
 
 Video: 
 
