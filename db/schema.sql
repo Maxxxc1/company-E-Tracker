@@ -1,7 +1,7 @@
--- DROP DATABASE IF EXISTS crusader_db;
--- CREATE DATABASE crusader_db;
+DROP DATABASE IF EXISTS etrackmax_db;
+CREATE DATABASE etrackmax_db;
 
--- USE crusader_db;
+USE etrackmax_db;
 
 CREATE TABLE departments (
   id INT PRIMARY KEY AUTO_INCREMENT,
