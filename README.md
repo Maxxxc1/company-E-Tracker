@@ -36,13 +36,13 @@ Open comand line terminal to index.js file, type node index.js on command line, 
 # Screenshots
 ![alt text](image.png)
 
-
+![alt text](<Screenshot 2024-06-08 at 2.07.19 PM.png>)
 
 # Links
 
 Repo: https://github.com/Maxxxc1/company-E-Tracker
 
-Video: 
+Video: https://youtu.be/mNRZ_TZ-nd4
 
 # Credits/Questions
 

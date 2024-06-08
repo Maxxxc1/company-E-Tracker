@@ -1,8 +1,23 @@
 {
+  "name": "company-e-tracker",
+  "version": "1.0.0",
+  "description": "The Company E Tracker is a user-friendly tool designed to efficiently manage employee databases. This application helps businesses keep workforce information organized and easily accessible.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "console.table": "^0.10.0",
     "dotenv": "^16.4.5",
-    "inquirer": "^8.2.4",
-    "mysql2": "^3.9.9"
+    "inquirer": "^8.2.6",
+    "mysql2": "^3.10.0"
   }
 }
